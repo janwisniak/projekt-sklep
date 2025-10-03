@@ -1,1 +1,3 @@
-# projekt-sklep
+# Sklep 
+### twórcy
+Jan Wisniak, Marcin Kowalski
